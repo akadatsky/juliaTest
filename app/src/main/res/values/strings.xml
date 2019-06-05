@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Most Populer Api</string>
+
+    <string name="tab_emailed">most emailed</string>
+    <string name="tab_shared">most shared</string>
+    <string name="tab_viewed">most viewed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
