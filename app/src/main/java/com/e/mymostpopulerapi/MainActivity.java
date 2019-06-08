@@ -25,9 +25,6 @@ public class MainActivity extends AppCompatActivity {
 
         TabLayout tabs = findViewById(R.id.tabs);
         tabs.setupWithViewPager(viewPager);
-
-        ApiService service = new ApiService();
-        service.execute(URLs.EMAILED);
     }
 
 }
